@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.title{
+  text-align: center;
+}
+.submitbtn{
+  text-align: center;
+}
+.label{
+  font-weight: bold;
+}
+.input{
+  height: 50px;
+}
+.quesinput{
+  height:120px;
+}
+.usererr{
+  text-align: center;
+}
+.cardbody{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.toaddnotes{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
